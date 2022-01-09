@@ -5,7 +5,8 @@ My name is Sergey and I am a Front-end developer with a great desire to constant
 ![Lazaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaryan&hide=stars,contribs&count_private=true&show_icons=true)
 
 My main stack is `JavaScript`, but I am developing in other directions as well.
-- ⚡ I am writing `Back-end` in python, Nodejs, Rust; studied ML a little;
+- ⚡ I am writing `Back-end` in python, Nodejs, Rust;
+- 🌱 Studied ML a little;
 - 🤔 Worked with `Blockchain Ethereum` and wrote smart contracts for it in Solidity (and linked with services using web3);
 - 🔭 Now I study `computer graphics` and how games work from the inside.
 
